@@ -115,20 +115,7 @@ The corrections endpoint uses `get_or_create` on the `SubjectMark` model. This l
 
 - **Hover to Show Top 5 Students:** On the frontend summary page, a dynamic hover interaction has been added. Hovering over a specific element reveals the top 5 students, enhancing the user experience by providing quick insights without needing to navigate away or click.
 
-## Screenshots
+## Video Demo
 
-Here is a visual demonstration of the application in action:
-
-*(Add screenshots here by replacing the placeholder links below)*
-
-### 1. Student List View
-![Student List View](path/to/student-list-screenshot.png)
-*Displays all students with a search filter functionality.*
-
-### 2. Summary Statistics
-![Summary Statistics](path/to/summary-screenshot.png)
-*Shows class averages and top students per subject.*
-
-### 3. Hover Interaction
-![Hover Feature](path/to/hover-feature-screenshot.png)
-*Demonstrates the hover-to-show-top-5-students feature on the summary page.*
+You can watch a quick demonstration of the application in action here:
+[Loom Video Demo](https://www.loom.com/share/3e5f3e7bf0304075888cd9e15c321dc8)
